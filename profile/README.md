@@ -9,7 +9,7 @@
 
 ## Progress
 ### Inventory
-We currently working on a rework of all plugins
+We currently working on a rework of all plugins with some new features and better performance
 
 ### Phone
 We want to finish the inventory first befor starting with the phone
