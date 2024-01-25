@@ -18,4 +18,4 @@ We want to finish the inventory first befor starting with the phone
 Edit for QBCore finished and posted on the Chezza Discord
 
 
-*WIP means Word In Progress*
+*WIP means Work In Progress*
