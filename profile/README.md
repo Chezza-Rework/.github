@@ -4,5 +4,5 @@
 
 ## Progress
 * Inventory - 20%
-* Phone - 1%
+* Phone - We want to finish the inventory first befor starting with the phone
 * Scratchcard - Edit for QBCore done
