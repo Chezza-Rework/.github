@@ -8,11 +8,14 @@
 * Download the edited version in the Discord
 
 ## Progress
-### Inventory
+### Inventory - WIP
 We currently working on a rework of all plugins with some new features and better performance
 
-### Phone
+### Phone - WIP
 We want to finish the inventory first befor starting with the phone
 
-### Scratchcard
+### Scratchcard - Finished
 Edit for QBCore finished and posted on the Chezza Discord
+
+
+*WIP means Word In Progress*
