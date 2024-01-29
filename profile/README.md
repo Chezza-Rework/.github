@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Trello:** https://trello.com/b/TBPrT1hc/chezza-studios
+**Documentation:** https://musiker15.gitbook.io/chezza-studios/inventory-v4/getting-started
 
 ## How to get the edited scripts
 * Buy the original Script from Tebex
@@ -9,7 +9,8 @@
 
 ## Progress
 ### Inventory - WIP
-We currently working on a rework of all plugins with some new features and better performance
+* Unofficial Update v4.1.0 released -> [Changelogs (Image)](https://prnt.sc/uoKI9QVThMy5)
+* Next Step is working on new features for all crafting, shop and storage
 
 ### Phone - WIP
 We want to finish the inventory first befor starting with the phone
