@@ -10,6 +10,8 @@
 ## Progress
 ### Inventory - WIP
 * Unofficial Update v4.1.0 released -> [Changelogs (Image)](https://prnt.sc/uoKI9QVThMy5)
+* Unofficial Update v4.1.1 released -> [Changelogs (Image)](https://prnt.sc/fe8Zg1sVTbW7)
+* Unofficial Update v4.2 released -> [Changelogs (Image)](https://prnt.sc/gbIzpiIB9yjE)
 * Next Step is working on new features for all crafting, shop and storage
 
 ### Phone - WIP
