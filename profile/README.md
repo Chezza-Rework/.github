@@ -8,17 +8,17 @@
 * Download the edited version in the Discord
 
 ## Progress
-### Inventory - WIP
+### Inventory - [Finished]
 * Unofficial Update v4.1.0 released -> [Changelogs (Image)](https://prnt.sc/uoKI9QVThMy5)
 * Unofficial Update v4.1.1 released -> [Changelogs (Image)](https://prnt.sc/fe8Zg1sVTbW7)
-* Unofficial Update v4.2 released -> [Changelogs (Image)](https://prnt.sc/gbIzpiIB9yjE)
-* Next Step is working on new features for all crafting, shop and storage
+* Unofficial Update v4.2.0 released -> [Changelogs (Image)](https://prnt.sc/gbIzpiIB9yjE)
+* Unofficial Update v4.3.0 released -> [Changelogs (Image)](https://prnt.sc/4wuZ_dfBA_yV)
 
 ### Phone - WIP
-We want to finish the inventory first befor starting with the phone
+* We are planning some updates. This may take a while...
 
-### Scratchcard - Finished
-Edit for QBCore finished and posted on the Chezza Discord
+### Scratchcard - [Finished]
+* Edit for QBCore finished and posted on the Chezza Discord
 
 
 *WIP means Work In Progress*
