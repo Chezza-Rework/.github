@@ -14,11 +14,10 @@
 * Unofficial Update v4.2.0 released -> [Changelogs (Image)](https://prnt.sc/gbIzpiIB9yjE)
 * Unofficial Update v4.3.0 released -> [Changelogs (Image)](https://prnt.sc/4wuZ_dfBA_yV)
 
-### Phone - WIP
+### Phone - [WIP]
 * We are planning some updates. This may take a while...
 
 ### Scratchcard - [Finished]
 * Edit for QBCore finished and posted on the Chezza Discord
-
 
 *WIP means Work In Progress*
