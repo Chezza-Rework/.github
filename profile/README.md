@@ -8,16 +8,16 @@
 * Download the edited version in the Discord
 
 ## Progress
-### Inventory - [Finished]
+### Inventory
 * Unofficial Update v4.1.0 released -> [Changelogs (Image)](https://prnt.sc/uoKI9QVThMy5)
 * Unofficial Update v4.1.1 released -> [Changelogs (Image)](https://prnt.sc/fe8Zg1sVTbW7)
 * Unofficial Update v4.2.0 released -> [Changelogs (Image)](https://prnt.sc/gbIzpiIB9yjE)
 * Unofficial Update v4.3.0 released -> [Changelogs (Image)](https://prnt.sc/4wuZ_dfBA_yV)
+* Unofficial Update v4.3.1 released -> [Changelogs (Image)](https://prnt.sc/Oc3mdgwcSyXn)
+* Unofficial Update v4.3.2 released -> *soon...*
 
-### Phone - [WIP]
+### Phone
 * We are planning some updates. This may take a while...
 
-### Scratchcard - [Finished]
+### Scratchcard
 * Edit for QBCore finished and posted on the Chezza Discord
-
-*WIP means Work In Progress*
