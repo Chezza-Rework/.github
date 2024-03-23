@@ -19,7 +19,7 @@
 * Unofficial Update v4.3.4 released -> *soon...*
 
 ### Phone
-* We are planning some updates. This may take a while...
+* No Updates so far...
 
 ### Scratchcard
 * Edit for QBCore finished and posted on the Chezza Discord
