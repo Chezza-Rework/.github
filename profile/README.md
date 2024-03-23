@@ -14,7 +14,9 @@
 * Unofficial Update v4.2.0 released -> [Changelogs (Image)](https://prnt.sc/gbIzpiIB9yjE)
 * Unofficial Update v4.3.0 released -> [Changelogs (Image)](https://prnt.sc/4wuZ_dfBA_yV)
 * Unofficial Update v4.3.1 released -> [Changelogs (Image)](https://prnt.sc/Oc3mdgwcSyXn)
-* Unofficial Update v4.3.2 released -> *soon...*
+* Unofficial Update v4.3.2 released -> [Changelogs (Image)](https://prnt.sc/7RqGLE1cgTG2)
+* Unofficial Update v4.3.3 released -> [Changelogs (Image)](https://prnt.sc/urlD-Cio5NxE)
+* Unofficial Update v4.3.4 released -> *soon...*
 
 ### Phone
 * We are planning some updates. This may take a while...
