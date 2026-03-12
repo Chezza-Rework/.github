@@ -17,10 +17,8 @@
 * Unofficial Update v4.3.2 released -> [Changelogs (Image)](https://prnt.sc/7RqGLE1cgTG2)
 * Unofficial Update v4.3.3 released -> [Changelogs (Image)](https://prnt.sc/urlD-Cio5NxE)
 * Unofficial Update v4.3.4 released -> [Changelogs (Image)](https://github.com/user-attachments/assets/1e353121-54ac-4337-a3a1-508ee3528efd)
-* Unofficial Update v4.3.5 released -> [Changelogs (Image)]()
-* Unofficial Update v4.3.6 released -> [Changelogs (Image)]()
-* Unofficial Update v4.3.7 released -> [Changelogs (Image)]()
-* Unofficial Update v4.3.8 released -> [Changelogs (Image)]()
+* Unofficial Update v4.3.7 released -> [Changelogs (Image)](https://github.com/user-attachments/assets/29c01170-6dce-41c2-bd71-b9a8e8e820fe)
+* Unofficial Update v4.3.8 released -> [Changelogs (Image)](https://github.com/user-attachments/assets/35ec6ca9-b81d-456f-b050-ee63ac5e9fca)
 
 ### Phone
 * No Updates so far...
