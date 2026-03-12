@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Documentation:** https://musiker15.gitbook.io/chezza-studios/inventory-v4/getting-started
+**Documentation:** https://musiker15.gitbook.io/chezza-studios
 
 ## How to get the edited scripts
 * Buy the original Script from Tebex
