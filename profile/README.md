@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Documentation:** https://musiker15.gitbook.io/chezza-studios
+**Documentation:** https://docu-chezza.musiker15.de/
 
 ## How to get the edited scripts
 * Buy the original Script from Tebex
